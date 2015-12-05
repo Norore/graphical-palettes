@@ -1,0 +1,54 @@
+GIMP Palette
+Name: JeBiF
+Columns: 3
+
+# Palette de couleurs pour ébauche 3 de JeBiF
+#####  Color Palette by Paletton.com
+#####  Palette URL: http://paletton.com/#uid=73i0u0k5bBh0qWX2gNe96tEe5oU
+
+  0   0   0  Black
+ 26  26  26  90% Gray
+ 51  51  51  80% Gray
+ 77  77  77  70% Gray
+102 102 102  60% Gray
+128 128 128  50% Gray
+153 153 153  40% Gray
+179 179 179  30% Gray
+204 204 204  20% Gray
+230 230 230  10% Gray
+236 236 236  7.5% Gray
+242 242 242  5% Gray
+249 249 249  2.5% Gray
+255 255 255  White
+
+# Primary color:
+
+145 173 173  #91ADAD
+239 242 242  #EFF2F2
+196 211 211  #C4D3D3
+101 142 142  #658E8E
+ 67 119 119  #437777
+
+# Secondary color (1):
+
+160 168 187  #A0A8BB
+242 242 244  #F2F2F4
+205 209 219  #CDD1DB
+118 130 158  #76829E
+ 81  96 133  #516085
+
+# Secondary color (2):
+
+255 241 214  #FFF1D6
+255 254 252  #FFFEFC
+255 249 237  #FFF9ED
+236 214 169  #ECD6A9
+198 169 111  #C6A96F
+
+# Complement color:
+
+255 232 214  #FFE8D6
+255 253 252  #FFFDFC
+255 245 237  #FFF5ED
+236 200 169  #ECC8A9
+198 151 111  #C6976F
